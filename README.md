@@ -19,7 +19,7 @@
 # Unit Produced Each Month
 ![image](https://github.com/user-attachments/assets/70317d20-eecd-4320-aca4-239a0d5d88c1)
 
-# ![image](https://github.com/user-attachments/assets/7ea9502a-040f-47ea-9525-29d075959480)
+# Avg cost
 
 ![image](https://github.com/user-attachments/assets/5fd55e48-34f7-43b3-b960-c897804b56a3)
 
